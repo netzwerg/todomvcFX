@@ -1,0 +1,7 @@
+Pragmatic Principles:
+
+* Immutable, JavaFX-agnostic domain models
+* Component-centric UI
+* No framework
+* No FXML
+* No dependency injection
